@@ -17,6 +17,7 @@ const generator: GroupGenerator = {
     
     const jsonListData0 = {
       "twitter:MaxJurov": "1",
+      "twitter:Naenkaaa": "1",
     };
 
     return [
